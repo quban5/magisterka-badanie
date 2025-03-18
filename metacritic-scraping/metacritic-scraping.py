@@ -1,4 +1,5 @@
 import time
+import sys
 import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
@@ -16,8 +17,8 @@ headers = {'user-agent': ua.random}
 
 
 print("User agent is:")
-print(" ")
 print(ua.random)
+print(" ")
 input("Press enter to continue...")
 
 
@@ -36,10 +37,12 @@ if ContinueStop == "y":
             r = requests.get(url, headers=headers)
             save_html(r.content, f"/home/jakub/Studia/magisterka-badanie/metacritic-scraping/pages/Page{TargetPage}.html")
             print("Pages scraped: ", TargetPage, " / ", DesiredPages)
-            print("First 10 characters of scraped page: ", r.content[:10])
-            print("Waiting for 10 seconds...")
-            TargetPage + 1
-            time.sleep(10)
+            if TargetPage < DesiredPages:
+                print("Waiting for 10 seconds...")
+                TargetPage + 1
+                for Second in range(1,11):
+                    print(Second, end="\r")
+                    time.sleep(1)
 
     print("Done. ", TargetPage, " / ", DesiredPages, " pages scraped.")            
     input("Press enter to close the script")
