@@ -35,7 +35,7 @@ if ContinueStop == "y":
         if TargetPage <= DesiredPages:
             url = f"https://www.metacritic.com/browse/game/pc/all/all-time/metascore/?releaseYearMin=1958&releaseYearMax=2015&platform=pc&page={TargetPage}"
             r = requests.get(url, headers=headers)
-            save_html(r.content, f"../magisterka-badanie/metacritic-scraping/strony/Page{TargetPage}.html")
+            save_html(r.content, f"/home/jakub/Studia/magisterka-badanie/metacritic-scraping/pages/Page{TargetPage}.html")
             print("Pages scraped: ", TargetPage, " / ", DesiredPages)
             if TargetPage < DesiredPages:
                 print("Waiting for 10 seconds...")
