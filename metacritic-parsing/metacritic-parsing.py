@@ -17,7 +17,8 @@ def getGameRating(indexOfGameRating):
 def getGameYear(indexOfGameYear):
     yearOnly = allYears[indexOfGameYear].get_text(strip=True)
     # Split dzieli to co w yearOnly wtedy, kiedy natknie się na przecinek,
-    # a następnie usuwa spację poprzez strip
+    # a następnie usuwa spację poprzez strip.
+    # Jest to potrzebne, bo data na Metacritic podawana jest z dniami i miesiącami, a chcemy tylko rok.
     gameYear = yearOnly.split(',')[-1].strip()
     return gameYear
 
@@ -30,7 +31,7 @@ gamesData = []
 pageNumber = 1
 
 
-for _ in range (1, 6):
+for _ in range (1, 6): # Druga liczba, to liczba stron html, jaką chcemy sparsować, według wzoru n+1
 
     #Otwiera i parsuje Page.html do zmiennej soup
     with open(f'/home/jakub/Studia/magisterka-badanie/metacritic-scraping/pages/Page{pageNumber}.html', encoding='utf-8') as file:
@@ -57,7 +58,7 @@ for _ in range (1, 6):
                 "rating":    getGameRating(indexOfGameRating),
                 "available": '' }
             
-            gamesData.append(game)  # Łączymy wszystkie dane w jedno
+            gamesData.append(game)  # Łączymy wszystkie powyższe cztery wartości w jeden wpis game
         except IndexError:
             continue
 
