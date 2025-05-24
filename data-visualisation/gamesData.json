@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Half-Life 2",
+        "year": "2004",
+        "rating": "96",
+        "available": "yes"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "year": "2015",
+        "rating": "96",
+        "available": "yes"
+    },
+    {
+        "name": "The Orange Box",
+        "year": "2007",
+        "rating": "96",
+        "available": "no"
+    },
+    {
+        "name": "Half-Life",
+        "year": "1998",
+        "rating": "96",
+        "available": "yes"
+    },
+    {
+        "name": "BioShock",
+        "year": "2007",
+        "rating": "96",
+        "available": "no"
+    },
+    {
+        "name": "Baldur's Gate II: Shadows of Amn",
+        "year": "2000",
+        "rating": "95",
+        "available": "no"
+    },
+    {
+        "name": "Portal 2",
+        "year": "2011",
+        "rating": "95",
+        "available": "no"
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim",
+        "year": "2011",
+        "rating": "94",
+        "available": "no"
+    },
+    {
+        "name": "Mass Effect 2",
+        "year": "2010",
+        "rating": "94",
+        "available": "yes"
+    },
+    {
+        "name": "Grand Theft Auto: Vice City",
+        "year": "2003",
+        "rating": "94",
+        "available": "no"
+    }
+]
