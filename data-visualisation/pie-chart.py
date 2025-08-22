@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import json
 
 #Load the json file
-with open('/home/jakub/Studia/magisterka-badanie/data-visualisation/gamesData.json', 'r', encoding='utf-8') as f:
+with open('/home/jakub/Studia/magisterka-badanie/data-visualisation/gamesDataForVisualization.json', 'r', encoding='utf-8') as f:
     gamesData = json.load(f)
 
 names = [game["name"] for game in gamesData]

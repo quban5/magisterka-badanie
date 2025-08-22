@@ -1,15 +1,18 @@
 import json
 
-# Load the JSON file
-with open('/home/jakub/Studia/magisterka-badanie/data-reviewing/gamesData.json', 'r', encoding='utf-8') as f:
-    games = json.load(f)
 
-# Get total number of unanswered entries
-total_remaining = sum(1 for g in games if g.get("available", "") == "")
+
+with open('/home/jakub/Studia/magisterka-badanie/data-reviewing/gamesDataForReviewing.json', 'r', encoding='utf-8') as f:               # Otwieramy plik json.
+    games = json.load(f)                                                                                                                # To co w pliku json zapisujemy do zmiennej games.
+
+
+
+total_remaining = sum(1 for g in games if g.get("available", "") == "")                                                                 # Zbieramy ilość wszystkich nieoznaczonych jeszcze gier.
 current_index = 1
 
-# Loop through each game where "available" is still empty
-for game in games:
+
+
+for game in games:                                                                                                                      # Pętlą przechodzimy przez każdą grę, gdzie availability jest puste.
     if game.get("available", "") == "":
         print(f"\nGame: {game['name']}")
         while True:
@@ -30,8 +33,11 @@ for game in games:
                 print("Please type 'y', 'n', or 'exit'.")
         current_index += 1
 
-# Final save
-with open('/home/jakub/Studia/magisterka-badanie/data-reviewing/gamesData.json', 'w', encoding='utf-8') as f:
+
+
+with open('/home/jakub/Studia/magisterka-badanie/data-reviewing/gamesDataForReviewing.json', 'w', encoding='utf-8') as f:                           # Ostateczny zapis.
     json.dump(games, f, ensure_ascii=False, indent=4)
+
+
 
 print("\nAll entries completed and saved.")
