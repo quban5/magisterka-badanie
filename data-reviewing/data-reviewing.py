@@ -16,7 +16,7 @@ for game in games:                                                              
     if game.get("available", "") == "":
         print(f"\nGame: {game['name']}")
         while True:
-            prompt = f"[{current_index} / {total_remaining}] Is it available? (y/n or 'exit'): "
+            prompt = f"[{current_index} / {total_remaining}] Is it available? (y/n or 'prob' 'exit'): "
             user_input = input(prompt).strip().lower()
             if user_input == 'y':
                 game["available"] = "yes"
@@ -24,8 +24,11 @@ for game in games:                                                              
             elif user_input == 'n':
                 game["available"] = "no"
                 break
+            elif user_input == 'prob':
+                game["available"] = "prob"
+                break
             elif user_input == 'exit':
-                with open('/home/jakub/Studia/magisterka-badanie/data-reviewing/gamesData.json', 'w', encoding='utf-8') as f:
+                with open('/home/jakub/Studia/magisterka-badanie/data-reviewing/gamesDataForReviewing.json', 'w', encoding='utf-8') as f:
                     json.dump(games, f, ensure_ascii=False, indent=4)
                 print("\nProgress saved. Exiting.")
                 exit()
