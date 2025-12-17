@@ -102,7 +102,7 @@
         "year": "1998",
         "rating": "94",
         "rank": "15.",
-        "available": "yes"
+        "available": "no"
     },
     {
         "name": "Diablo",
@@ -2706,644 +2706,644 @@
         "year": "2003",
         "rating": "84",
         "rank": "387.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Sid Meier's SimGolf",
         "year": "2002",
         "rating": "84",
         "rank": "388.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Command & Conquer: Generals",
         "year": "2003",
         "rating": "84",
         "rank": "389.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Middle-earth: Shadow of Mordor",
         "year": "2014",
         "rating": "84",
         "rank": "390.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "SpaceChem",
         "year": "2011",
         "rating": "84",
         "rank": "391.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Pinball FX 2",
         "year": "2012",
         "rating": "84",
         "rank": "392.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "PlanetSide 2",
         "year": "2012",
         "rating": "84",
         "rank": "393.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "GT Legends",
         "year": "2006",
         "rating": "84",
         "rank": "394.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Hearthstone: Heroes of Warcraft - Goblins Vs. Gnomes",
         "year": "2014",
         "rating": "84",
         "rank": "395.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Space Rangers 2: Rise of the Dominators",
         "year": "2006",
         "rating": "84",
         "rank": "396.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Tales From The Borderlands: Episode 1 - Zer0 Sum",
         "year": "2014",
         "rating": "84",
         "rank": "397.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Puzzle Quest: Challenge of the Warlords",
         "year": "2007",
         "rating": "84",
         "rank": "398.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Heroes of Might and Magic IV",
         "year": "2002",
         "rating": "84",
         "rank": "399.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Command & Conquer: Red Alert 2",
         "year": "2000",
         "rating": "84",
         "rank": "400.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Shogun: Total War",
         "year": "2000",
         "rating": "84",
         "rank": "401.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "DiRT",
         "year": "2007",
         "rating": "84",
         "rank": "402.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Super Street Fighter IV: Arcade Edition",
         "year": "2011",
         "rating": "84",
         "rank": "403.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Football Manager 2012",
         "year": "2011",
         "rating": "84",
         "rank": "404.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Guild Wars Factions",
         "year": "2006",
         "rating": "84",
         "rank": "405.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Darkest Dungeon",
         "year": "2015",
         "rating": "84",
         "rank": "406.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "80 Days",
         "year": "2015",
         "rating": "84",
         "rank": "407.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Spore",
         "year": "2008",
         "rating": "84",
         "rank": "408.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Unity of Command",
         "year": "2011",
         "rating": "84",
         "rank": "409.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Hearthstone: Heroes of Warcraft - The Grand Tournament",
         "year": "2015",
         "rating": "84",
         "rank": "410.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Metro Redux",
         "year": "2014",
         "rating": "84",
         "rank": "411.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Time Gentlemen, Please!",
         "year": "2009",
         "rating": "84",
         "rank": "412.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Disciples II: Dark Prophecy",
         "year": "2002",
         "rating": "84",
         "rank": "413.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Europa Universalis IV: Wealth of Nations",
         "year": "2014",
         "rating": "84",
         "rank": "414.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Mass Effect 3: Citadel",
         "year": "2013",
         "rating": "84",
         "rank": "415.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Just Cause 2",
         "year": "2010",
         "rating": "84",
         "rank": "416.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Crysis Warhead",
         "year": "2008",
         "rating": "84",
         "rank": "417.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Assassin's Creed IV: Black Flag",
         "year": "2013",
         "rating": "84",
         "rank": "418.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "SimCity 4",
         "year": "2003",
         "rating": "84",
         "rank": "419.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Age of Mythology: The Titans",
         "year": "2003",
         "rating": "84",
         "rank": "420.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Microsoft Train Simulator",
         "year": "2001",
         "rating": "84",
         "rank": "421.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Black Mesa",
         "year": "2012",
         "rating": "84",
         "rank": "422.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Rise of Nations: Rise of Legends",
         "year": "2006",
         "rating": "84",
         "rank": "423.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "TOCA Race Driver 3 Challenge",
         "year": "2006",
         "rating": "84",
         "rank": "424.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "FTL: Faster Than Light",
         "year": "2012",
         "rating": "84",
         "rank": "425.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "SOMA",
         "year": "2015",
         "rating": "84",
         "rank": "426.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "DEFCON: Everybody Dies",
         "year": "2006",
         "rating": "84",
         "rank": "427.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Tron 2.0",
         "year": "2003",
         "rating": "84",
         "rank": "428.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Brothers in Arms: Earned in Blood",
         "year": "2005",
         "rating": "84",
         "rank": "429.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Grim Fandango Remastered",
         "year": "2015",
         "rating": "84",
         "rank": "430.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "The Lord of the Rings: The Battle for Middle-Earth II",
         "year": "2006",
         "rating": "84",
         "rank": "431.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Battlefield Vietnam",
         "year": "2004",
         "rating": "84",
         "rank": "432.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Medieval: Total War - Viking Invasion",
         "year": "2003",
         "rating": "84",
         "rank": "433.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Fallout 4",
         "year": "2015",
         "rating": "84",
         "rank": "434.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Guild Wars Nightfall",
         "year": "2006",
         "rating": "84",
         "rank": "435.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "The Binding of Isaac",
         "year": "2011",
         "rating": "84",
         "rank": "436.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Enemy Territory: Quake Wars",
         "year": "2007",
         "rating": "84",
         "rank": "437.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Trine 2",
         "year": "2011",
         "rating": "84",
         "rank": "438.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Rift (2011)",
         "year": "2011",
         "rating": "84",
         "rank": "439.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "The Wolf Among Us: Episode 5 - Cry Wolf",
         "year": "2014",
         "rating": "84",
         "rank": "440.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Shift 2: Unleashed",
         "year": "2011",
         "rating": "84",
         "rank": "441.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Sid Meier's Civilization IV: Warlords",
         "year": "2006",
         "rating": "84",
         "rank": "442.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Battlefield 1942: The Road to Rome",
         "year": "2003",
         "rating": "84",
         "rank": "443.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Zeus: Master of Olympus - Poseidon",
         "year": "2001",
         "rating": "84",
         "rank": "444.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Master of Orion II: Battle at Antares",
         "year": "1996",
         "rating": "84",
         "rank": "445.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "F1 2010",
         "year": "2010",
         "rating": "84",
         "rank": "446.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Shatter (2009)",
         "year": "2010",
         "rating": "84",
         "rank": "447.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Darwinia+",
         "year": "2005",
         "rating": "84",
         "rank": "448.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Ultimate General: Gettysburg",
         "year": "2014",
         "rating": "84",
         "rank": "449.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Final Fantasy XI: Treasures of Aht Urhgan",
         "year": "2006",
         "rating": "83",
         "rank": "450.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "MDK2",
         "year": "2000",
         "rating": "83",
         "rank": "451.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Gunpoint",
         "year": "2013",
         "rating": "83",
         "rank": "452.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Beyond Good & Evil",
         "year": "2003",
         "rating": "83",
         "rank": "453.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Anno 2070",
         "year": "2011",
         "rating": "83",
         "rank": "454.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "SMITE",
         "year": "2014",
         "rating": "83",
         "rank": "455.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Halo: Combat Evolved",
         "year": "2003",
         "rating": "83",
         "rank": "456.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Homeworld 2",
         "year": "2003",
         "rating": "83",
         "rank": "457.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Command & Conquer: Generals - Zero Hour",
         "year": "2003",
         "rating": "83",
         "rank": "458.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "EverQuest: The Shadows of Luclin",
         "year": "2001",
         "rating": "83",
         "rank": "459.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Silent Storm",
         "year": "2004",
         "rating": "83",
         "rank": "460.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Galactic Civilizations",
         "year": "2003",
         "rating": "83",
         "rank": "461.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Orcs Must Die!",
         "year": "2011",
         "rating": "83",
         "rank": "462.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Life is Strange",
         "year": "2015",
         "rating": "83",
         "rank": "463.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Fable: The Lost Chapters",
         "year": "2005",
         "rating": "83",
         "rank": "464.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Unreal Tournament III",
         "year": "2007",
         "rating": "83",
         "rank": "465.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "This War of Mine",
         "year": "2014",
         "rating": "83",
         "rank": "466.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "The Lord of the Rings Online: Siege of Mirkwood",
         "year": "2009",
         "rating": "83",
         "rank": "467.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "The Blackwell Epiphany",
         "year": "2014",
         "rating": "83",
         "rank": "468.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Out of the Park Baseball 10",
         "year": "2009",
         "rating": "83",
         "rank": "469.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Tomb Raider: Anniversary",
         "year": "2007",
         "rating": "83",
         "rank": "470.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Need for Speed: Shift",
         "year": "2009",
         "rating": "83",
         "rank": "471.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Hearts of Iron II",
         "year": "2005",
         "rating": "83",
         "rank": "472.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "FIFA Soccer 11",
         "year": "2010",
         "rating": "83",
         "rank": "473.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Project CARS",
         "year": "2015",
         "rating": "83",
         "rank": "474.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "Riven: The Sequel to Myst",
         "year": "1997",
         "rating": "83",
         "rank": "475.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Icewind Dale II",
         "year": "2002",
         "rating": "83",
         "rank": "476.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "Age of Empires",
         "year": "1997",
         "rating": "83",
         "rank": "477.",
-        "available": ""
+        "available": "yes"
     },
     {
         "name": "FIFA Soccer 2003",
         "year": "2002",
         "rating": "83",
         "rank": "478.",
-        "available": ""
+        "available": "no"
     },
     {
         "name": "EverQuest II: Echoes of Faydwer",
