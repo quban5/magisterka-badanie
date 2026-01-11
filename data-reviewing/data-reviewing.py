@@ -1,4 +1,5 @@
 import json
+import pyperclip
 
 
 
@@ -15,6 +16,7 @@ current_index = 1
 for game in games:                                                                                                                      # Pętlą przechodzimy przez każdą grę, gdzie availability jest puste.
     if game.get("available", "") == "":
         print(f"\nGame: {game['name']}")
+        pyperclip.copy(f"{game['name']}")
         while True:
             prompt = f"[{current_index} / {total_remaining}] Is it available? (y/n or 'prob' 'exit'): "
             user_input = input(prompt).strip().lower()
