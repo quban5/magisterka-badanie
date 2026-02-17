@@ -12,15 +12,6 @@ ua = UserAgent()                                                                
 headers = {'user-agent': ua.random}                                             # Zapisanie do zmiennej headers informacji. User agent jest generowany losowo przez ua.random.
 
 
-
-
-
-print("User agent is:")                                                         # 
-print(ua.random)                                                                # Program podaje jaki user agent został wylosowany.
-print(" ")                                                                      #
-input("Press enter to continue...")                                             # Program czeka na wciśnięcie Enter, żeby kontynuować dalej.
-
-
 DesiredPages = int(input("Enter number of pages you want to scrap: "))          # Program pyta się ile stron chcemy zescrapować i zapisuje to do zmiennej DesiredPages.
 TargetPage = 1                                                                  # Ustawienie wartości początkowej 1. TargetPage to zmienna, która przetrzymuje numer strony, który zostanie zescrapowany.
 
