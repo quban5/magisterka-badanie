@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 import json
 
-#Load the json file
-with open('/home/jakub/Studia/magisterka-badanie/data-visualisation/gamesDataForVisualization.json', 'r', encoding='utf-8') as f:
+print(f"Provide a path to the main data file:\n")
+pathToFile = input()
+with open(pathToFile, 'r', encoding='utf-8') as f:
     gamesData = json.load(f)
 
-names = [game["name"] for game in gamesData]
-availability = [game["available"] for game in gamesData]
+availability = [game["available"] for game in gamesData] # Grabs all "available" strings and makes a list
 
 yesCount = 0
 noCount = 0
@@ -23,13 +23,13 @@ noCountPercent = noCount / len(availability) * 100
 print("Yes:", yesCount, f"{yesCountPercent} %")
 print("No:", noCount, f"{noCountPercent} %")
 
-labels = ['Available (Yes)', 'Not Available (No)']
+labels = ['Available', 'Not Available']
 sizes = [yesCount, noCount]
-colors = ['green', 'red']
+colors = ['#39521f', '#ba1b18']
 
 plt.figure(figsize=(6, 6))
-plt.pie(sizes, labels=labels, autopct='%1.1f%%', colors=colors, startangle=140)
-plt.title('Game Availability on PC (Pie Chart)')
+plt.pie(sizes, labels=labels, colors=colors, startangle=140)
+plt.title('Availability of PC video games (1958-2015) listed on Metacritic')
 plt.axis('equal')  # Keeps circle shape
 plt.tight_layout()
 plt.show()
