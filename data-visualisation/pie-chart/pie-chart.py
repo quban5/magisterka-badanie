@@ -20,16 +20,16 @@ for available in availability:
 yesCountPercent = yesCount / len(availability) * 100
 noCountPercent = noCount / len(availability) * 100
 
-print("Yes:", yesCount, f"{yesCountPercent} %")
-print("No:", noCount, f"{noCountPercent} %")
+print('Yes:', yesCount, f"{yesCountPercent} %")
+print('No:', noCount, f"{noCountPercent} %")
 
-labels = ['Available', 'Not Available']
+labels = ['Dostępne', 'Niedostępne']
 sizes = [yesCount, noCount]
-colors = ['#39521f', '#ba1b18']
+colors = ['#4CAF50', '#F44336']
 
 plt.figure(figsize=(6, 6))
 plt.pie(sizes, labels=labels, colors=colors, startangle=140)
-plt.title('Availability of PC video games (1958-2015) listed on Metacritic')
-plt.axis('equal')  # Keeps circle shape
+plt.axis('equal')
 plt.tight_layout()
+plt.savefig('availability-pie-chart.png', dpi=300, bbox_inches='tight')
 plt.show()
