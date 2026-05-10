@@ -11,23 +11,15 @@ ranges = [
 ]
 
 binnedData = {f"{low}-{high}": [] for low, high in ranges}
-others = []
 
 for item in data:
-        try:
-            rating = int(item.get("rating", 0))
+    rating = int(item.get("rating", 0))
             
-            foundRange = False
-            for low, high in ranges:
-                if low <= rating <= high:
-                    binnedData[f"{low}-{high}"].append(item)
-                    foundRange = True
-                    break
-            
-            if not foundRange:
-                others.append(item)
-        except ValueError:
-            print(f"{item.get('name')}: not valid rating value")
+    for low, high in ranges:
+        if low <= rating <= high:
+            binnedData[f"{low}-{high}"].append(item)
+            foundRange = True
+            break
 
 for rangeName, items in binnedData.items():
         if items:
@@ -35,8 +27,3 @@ for rangeName, items in binnedData.items():
             with open(output_filename, 'w', encoding='utf-8') as out_file:
                 json.dump(items, out_file, indent=4, ensure_ascii=False)
             print(f"Created file: {output_filename} ({len(items)} items)")
-
-if others:
-        with open("games_rating_others.json", "w", encoding="utf-8") as out_file:
-            json.dump(others, out_file, indent=4, ensure_ascii=False)
-        print(f"Created file: games_rating_others.json ({len(others)} items)")

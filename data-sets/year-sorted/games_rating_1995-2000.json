@@ -1,0 +1,1241 @@
+[
+    {
+        "name": "Half-Life",
+        "year": "1998",
+        "rating": "96",
+        "rank": "4.",
+        "available": "yes"
+    },
+    {
+        "name": "Baldur's Gate II: Shadows of Amn",
+        "year": "2000",
+        "rating": "95",
+        "rank": "6.",
+        "available": "yes"
+    },
+    {
+        "name": "Sid Meier's Civilization II",
+        "year": "1996",
+        "rating": "94",
+        "rank": "11.",
+        "available": "no"
+    },
+    {
+        "name": "Quake",
+        "year": "1996",
+        "rating": "94",
+        "rank": "12.",
+        "available": "yes"
+    },
+    {
+        "name": "Grim Fandango",
+        "year": "1998",
+        "rating": "94",
+        "rank": "15.",
+        "available": "no"
+    },
+    {
+        "name": "Diablo",
+        "year": "1996",
+        "rating": "94",
+        "rank": "16.",
+        "available": "yes"
+    },
+    {
+        "name": "Homeworld",
+        "year": "1999",
+        "rating": "93",
+        "rank": "24.",
+        "available": "yes"
+    },
+    {
+        "name": "Sid Meier's Gettysburg!",
+        "year": "1997",
+        "rating": "92",
+        "rank": "31.",
+        "available": "no"
+    },
+    {
+        "name": "The Sims",
+        "year": "2000",
+        "rating": "92",
+        "rank": "32.",
+        "available": "yes"
+    },
+    {
+        "name": "System Shock 2",
+        "year": "1999",
+        "rating": "92",
+        "rank": "35.",
+        "available": "yes"
+    },
+    {
+        "name": "Thief: The Dark Project",
+        "year": "1998",
+        "rating": "92",
+        "rank": "39.",
+        "available": "yes"
+    },
+    {
+        "name": "Age of Empires II: The Age of Kings",
+        "year": "1999",
+        "rating": "92",
+        "rank": "40.",
+        "available": "yes"
+    },
+    {
+        "name": "Sid Meier's Alpha Centauri",
+        "year": "1999",
+        "rating": "92",
+        "rank": "41.",
+        "available": "yes"
+    },
+    {
+        "name": "Unreal Tournament (1999)",
+        "year": "1999",
+        "rating": "92",
+        "rank": "42.",
+        "available": "no"
+    },
+    {
+        "name": "Myth: The Fallen Lords",
+        "year": "1997",
+        "rating": "91",
+        "rank": "46.",
+        "available": "no"
+    },
+    {
+        "name": "Baldur's Gate",
+        "year": "1998",
+        "rating": "91",
+        "rank": "50.",
+        "available": "yes"
+    },
+    {
+        "name": "FreeSpace 2",
+        "year": "1999",
+        "rating": "91",
+        "rank": "52.",
+        "available": "yes"
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 2",
+        "year": "2000",
+        "rating": "91",
+        "rank": "58.",
+        "available": "no"
+    },
+    {
+        "name": "Star Wars Jedi Knight: Dark Forces II",
+        "year": "1997",
+        "rating": "91",
+        "rank": "59.",
+        "available": "yes"
+    },
+    {
+        "name": "The Longest Journey",
+        "year": "2000",
+        "rating": "91",
+        "rank": "61.",
+        "available": "yes"
+    },
+    {
+        "name": "The Operative: No One Lives Forever",
+        "year": "2000",
+        "rating": "91",
+        "rank": "64.",
+        "available": "no"
+    },
+    {
+        "name": "Planescape: Torment",
+        "year": "1999",
+        "rating": "91",
+        "rank": "70.",
+        "available": "yes"
+    },
+    {
+        "name": "NHL 2001",
+        "year": "2000",
+        "rating": "90",
+        "rank": "84.",
+        "available": "no"
+    },
+    {
+        "name": "Deus Ex",
+        "year": "2000",
+        "rating": "90",
+        "rank": "86.",
+        "available": "yes"
+    },
+    {
+        "name": "Command & Conquer: Red Alert",
+        "year": "1996",
+        "rating": "90",
+        "rank": "104.",
+        "available": "yes"
+    },
+    {
+        "name": "Sacrifice (2000)",
+        "year": "2000",
+        "rating": "89",
+        "rank": "108.",
+        "available": "yes"
+    },
+    {
+        "name": "Fallout",
+        "year": "1997",
+        "rating": "89",
+        "rank": "112.",
+        "available": "yes"
+    },
+    {
+        "name": "Homeworld: Cataclysm",
+        "year": "2000",
+        "rating": "89",
+        "rank": "120.",
+        "available": "yes"
+    },
+    {
+        "name": "Duke Nukem 3D",
+        "year": "1996",
+        "rating": "89",
+        "rank": "130.",
+        "available": "yes"
+    },
+    {
+        "name": "Descent 3",
+        "year": "1999",
+        "rating": "89",
+        "rank": "137.",
+        "available": "yes"
+    },
+    {
+        "name": "The Curse of Monkey Island",
+        "year": "1997",
+        "rating": "89",
+        "rank": "138.",
+        "available": "yes"
+    },
+    {
+        "name": "Railroad Tycoon II",
+        "year": "1998",
+        "rating": "89",
+        "rank": "145.",
+        "available": "yes"
+    },
+    {
+        "name": "Superbike 2001",
+        "year": "2000",
+        "rating": "88",
+        "rank": "152.",
+        "available": "no"
+    },
+    {
+        "name": "Age of Empires II: The Conquerors Expansion",
+        "year": "2000",
+        "rating": "88",
+        "rank": "156.",
+        "available": "yes"
+    },
+    {
+        "name": "Starcraft",
+        "year": "1998",
+        "rating": "88",
+        "rank": "158.",
+        "available": "yes"
+    },
+    {
+        "name": "Myth II: Soulblighter",
+        "year": "1998",
+        "rating": "88",
+        "rank": "163.",
+        "available": "no"
+    },
+    {
+        "name": "Shogo: Mobile Armor Division",
+        "year": "1998",
+        "rating": "88",
+        "rank": "165.",
+        "available": "yes"
+    },
+    {
+        "name": "Counter-Strike",
+        "year": "2000",
+        "rating": "88",
+        "rank": "180.",
+        "available": "yes"
+    },
+    {
+        "name": "Diablo II",
+        "year": "2000",
+        "rating": "88",
+        "rank": "185.",
+        "available": "yes"
+    },
+    {
+        "name": "Thief II: The Metal Age",
+        "year": "2000",
+        "rating": "87",
+        "rank": "199.",
+        "available": "yes"
+    },
+    {
+        "name": "MechWarrior 4: Vengeance",
+        "year": "2000",
+        "rating": "87",
+        "rank": "200.",
+        "available": "no"
+    },
+    {
+        "name": "Icewind Dale",
+        "year": "2000",
+        "rating": "87",
+        "rank": "209.",
+        "available": "yes"
+    },
+    {
+        "name": "Grand Prix 3",
+        "year": "2000",
+        "rating": "87",
+        "rank": "218.",
+        "available": "no"
+    },
+    {
+        "name": "Zeus: Master of Olympus",
+        "year": "2000",
+        "rating": "87",
+        "rank": "228.",
+        "available": "yes"
+    },
+    {
+        "name": "Fallout 2",
+        "year": "1998",
+        "rating": "86",
+        "rank": "237.",
+        "available": "yes"
+    },
+    {
+        "name": "Enemy Engaged: RAH-66 Comanche Versus Ka-52 Hokum",
+        "year": "2000",
+        "rating": "86",
+        "rank": "239.",
+        "available": "yes"
+    },
+    {
+        "name": "Ground Control",
+        "year": "2000",
+        "rating": "86",
+        "rank": "249.",
+        "available": "yes"
+    },
+    {
+        "name": "Total Annihilation",
+        "year": "1997",
+        "rating": "86",
+        "rank": "253.",
+        "available": "yes"
+    },
+    {
+        "name": "Steel Beasts",
+        "year": "2000",
+        "rating": "86",
+        "rank": "254.",
+        "available": "yes"
+    },
+    {
+        "name": "Star Trek: Voyager Elite Force",
+        "year": "2000",
+        "rating": "86",
+        "rank": "277.",
+        "available": "yes"
+    },
+    {
+        "name": "Links 2001",
+        "year": "2000",
+        "rating": "86",
+        "rank": "281.",
+        "available": "no"
+    },
+    {
+        "name": "Full Throttle",
+        "year": "1995",
+        "rating": "86",
+        "rank": "283.",
+        "available": "yes"
+    },
+    {
+        "name": "EverQuest: The Ruins of Kunark",
+        "year": "2000",
+        "rating": "86",
+        "rank": "284.",
+        "available": "yes"
+    },
+    {
+        "name": "Escape from Monkey Island",
+        "year": "2000",
+        "rating": "86",
+        "rank": "292.",
+        "available": "yes"
+    },
+    {
+        "name": "Allegiance",
+        "year": "2000",
+        "rating": "86",
+        "rank": "305.",
+        "available": "yes"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six",
+        "year": "1998",
+        "rating": "85",
+        "rank": "308.",
+        "available": "yes"
+    },
+    {
+        "name": "Falcon 4.0",
+        "year": "1998",
+        "rating": "85",
+        "rank": "309.",
+        "available": "yes"
+    },
+    {
+        "name": "EverQuest",
+        "year": "1999",
+        "rating": "85",
+        "rank": "318.",
+        "available": "yes"
+    },
+    {
+        "name": "Giants: Citizen Kabuto",
+        "year": "2000",
+        "rating": "85",
+        "rank": "327.",
+        "available": "yes"
+    },
+    {
+        "name": "FIFA 2001 Major League Soccer",
+        "year": "2000",
+        "rating": "85",
+        "rank": "366.",
+        "available": "no"
+    },
+    {
+        "name": "American McGee's Alice",
+        "year": "2000",
+        "rating": "85",
+        "rank": "373.",
+        "available": "yes"
+    },
+    {
+        "name": "Obsidian",
+        "year": "1997",
+        "rating": "85",
+        "rank": "381.",
+        "available": "yes"
+    },
+    {
+        "name": "Command & Conquer: Red Alert 2",
+        "year": "2000",
+        "rating": "84",
+        "rank": "400.",
+        "available": "yes"
+    },
+    {
+        "name": "Shogun: Total War",
+        "year": "2000",
+        "rating": "84",
+        "rank": "401.",
+        "available": "yes"
+    },
+    {
+        "name": "Master of Orion II: Battle at Antares",
+        "year": "1996",
+        "rating": "84",
+        "rank": "445.",
+        "available": "yes"
+    },
+    {
+        "name": "MDK2",
+        "year": "2000",
+        "rating": "83",
+        "rank": "451.",
+        "available": "yes"
+    },
+    {
+        "name": "Riven: The Sequel to Myst",
+        "year": "1997",
+        "rating": "83",
+        "rank": "475.",
+        "available": "yes"
+    },
+    {
+        "name": "Age of Empires",
+        "year": "1997",
+        "rating": "83",
+        "rank": "477.",
+        "available": "yes"
+    },
+    {
+        "name": "Combat Flight Simulator 2: WWII Pacific Theater",
+        "year": "2000",
+        "rating": "83",
+        "rank": "488.",
+        "available": "no"
+    },
+    {
+        "name": "Crimson Skies",
+        "year": "2000",
+        "rating": "83",
+        "rank": "503.",
+        "available": "no"
+    },
+    {
+        "name": "Metal Gear Solid Integral",
+        "year": "2000",
+        "rating": "83",
+        "rank": "527.",
+        "available": "yes"
+    },
+    {
+        "name": "Sid Meier's Antietam!",
+        "year": "1999",
+        "rating": "82",
+        "rank": "569.",
+        "available": "no"
+    },
+    {
+        "name": "Warlords Battlecry",
+        "year": "2000",
+        "rating": "82",
+        "rank": "586.",
+        "available": "yes"
+    },
+    {
+        "name": "Blood (1997)",
+        "year": "1997",
+        "rating": "82",
+        "rank": "599.",
+        "available": "yes"
+    },
+    {
+        "name": "The Sims: Livin' Large",
+        "year": "2000",
+        "rating": "82",
+        "rank": "602.",
+        "available": "yes"
+    },
+    {
+        "name": "Virtual Pool 3",
+        "year": "2000",
+        "rating": "82",
+        "rank": "604.",
+        "available": "no"
+    },
+    {
+        "name": "B-17 Flying Fortress: The Mighty 8th!",
+        "year": "2000",
+        "rating": "82",
+        "rank": "616.",
+        "available": "yes"
+    },
+    {
+        "name": "EverQuest: The Scars of Velious",
+        "year": "2000",
+        "rating": "82",
+        "rank": "617.",
+        "available": "yes"
+    },
+    {
+        "name": "The Last Express",
+        "year": "1997",
+        "rating": "82",
+        "rank": "628.",
+        "available": "yes"
+    },
+    {
+        "name": "SWAT 3: Elite Edition",
+        "year": "2000",
+        "rating": "81",
+        "rank": "659.",
+        "available": "yes"
+    },
+    {
+        "name": "Asheron's Call",
+        "year": "1999",
+        "rating": "81",
+        "rank": "660.",
+        "available": "no"
+    },
+    {
+        "name": "NASCAR Heat",
+        "year": "2000",
+        "rating": "81",
+        "rank": "675.",
+        "available": "no"
+    },
+    {
+        "name": "Flanker 2.0",
+        "year": "1999",
+        "rating": "81",
+        "rank": "706.",
+        "available": "no"
+    },
+    {
+        "name": "Star Trek: Deep Space Nine: The Fallen",
+        "year": "2000",
+        "rating": "81",
+        "rank": "714.",
+        "available": "no"
+    },
+    {
+        "name": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+        "year": "1999",
+        "rating": "80",
+        "rank": "743.",
+        "available": "yes"
+    },
+    {
+        "name": "Time Commando",
+        "year": "1996",
+        "rating": "80",
+        "rank": "818.",
+        "available": "yes"
+    },
+    {
+        "name": "RollerCoaster Tycoon: Loopy Landscapes",
+        "year": "2000",
+        "rating": "80",
+        "rank": "833.",
+        "available": "no"
+    },
+    {
+        "name": "Chessmaster 8000",
+        "year": "2000",
+        "rating": "80",
+        "rank": "848.",
+        "available": "no"
+    },
+    {
+        "name": "Broken Sword: The Shadow of the Templars",
+        "year": "1996",
+        "rating": "80",
+        "rank": "849.",
+        "available": "yes"
+    },
+    {
+        "name": "Space Empires IV",
+        "year": "2000",
+        "rating": "79",
+        "rank": "918.",
+        "available": "yes"
+    },
+    {
+        "name": "Close Combat: Invasion: Normandy",
+        "year": "2000",
+        "rating": "79",
+        "rank": "934.",
+        "available": "yes"
+    },
+    {
+        "name": "Midtown Madness 2",
+        "year": "2000",
+        "rating": "78",
+        "rank": "1,007.",
+        "available": "no"
+    },
+    {
+        "name": "Earth 2150",
+        "year": "2000",
+        "rating": "78",
+        "rank": "1,031.",
+        "available": "yes"
+    },
+    {
+        "name": "Heavy Metal: F.A.K.K. 2",
+        "year": "2000",
+        "rating": "78",
+        "rank": "1,032.",
+        "available": "no"
+    },
+    {
+        "name": "Madden NFL 2001",
+        "year": "2000",
+        "rating": "78",
+        "rank": "1,047.",
+        "available": "no"
+    },
+    {
+        "name": "Dirt Track Racing: Sprint Cars",
+        "year": "2000",
+        "rating": "78",
+        "rank": "1,061.",
+        "available": "no"
+    },
+    {
+        "name": "Ground Control: Dark Conspiracy",
+        "year": "2000",
+        "rating": "77",
+        "rank": "1,081.",
+        "available": "yes"
+    },
+    {
+        "name": "You Don't Know Jack: 5th Dementia",
+        "year": "2000",
+        "rating": "77",
+        "rank": "1,131.",
+        "available": "no"
+    },
+    {
+        "name": "Starfleet Command Volume II: Empires at War",
+        "year": "2000",
+        "rating": "77",
+        "rank": "1,150.",
+        "available": "no"
+    },
+    {
+        "name": "SimCity 3000 Unlimited",
+        "year": "2000",
+        "rating": "77",
+        "rank": "1,151.",
+        "available": "yes"
+    },
+    {
+        "name": "Dark Reign 2",
+        "year": "2000",
+        "rating": "77",
+        "rank": "1,184.",
+        "available": "yes"
+    },
+    {
+        "name": "Cleopatra: Queen of the Nile",
+        "year": "2000",
+        "rating": "77",
+        "rank": "1,190.",
+        "available": "yes"
+    },
+    {
+        "name": "The Devil Inside",
+        "year": "2000",
+        "rating": "76",
+        "rank": "1,231.",
+        "available": "no"
+    },
+    {
+        "name": "Rune",
+        "year": "2000",
+        "rating": "76",
+        "rank": "1,269.",
+        "available": "yes"
+    },
+    {
+        "name": "Airfix Dogfighter",
+        "year": "2000",
+        "rating": "75",
+        "rank": "1,381.",
+        "available": "no"
+    },
+    {
+        "name": "Bad Mojo",
+        "year": "1996",
+        "rating": "74",
+        "rank": "1,419.",
+        "available": "no"
+    },
+    {
+        "name": "Total Annihilation: Kingdoms",
+        "year": "1999",
+        "rating": "74",
+        "rank": "1,442.",
+        "available": "yes"
+    },
+    {
+        "name": "Star Trek: Klingon Academy",
+        "year": "2000",
+        "rating": "74",
+        "rank": "1,446.",
+        "available": "no"
+    },
+    {
+        "name": "Hidden & Dangerous",
+        "year": "1999",
+        "rating": "74",
+        "rank": "1,454.",
+        "available": "yes"
+    },
+    {
+        "name": "Vampire: The Masquerade - Redemption",
+        "year": "2000",
+        "rating": "74",
+        "rank": "1,499.",
+        "available": "yes"
+    },
+    {
+        "name": "Delta Force: Land Warrior",
+        "year": "2000",
+        "rating": "74",
+        "rank": "1,511.",
+        "available": "yes"
+    },
+    {
+        "name": "Sanity: Aiken's Artifact",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,522.",
+        "available": "no"
+    },
+    {
+        "name": "Rollcage Stage II",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,523.",
+        "available": "no"
+    },
+    {
+        "name": "Dave Mirra Freestyle BMX",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,526.",
+        "available": "no"
+    },
+    {
+        "name": "Blair Witch Volume I: Rustin Parr",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,528.",
+        "available": "no"
+    },
+    {
+        "name": "Sheep (2000)",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,552.",
+        "available": "yes"
+    },
+    {
+        "name": "4x4 Evolution",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,581.",
+        "available": "no"
+    },
+    {
+        "name": "Hitman: Codename 47",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,613.",
+        "available": "yes"
+    },
+    {
+        "name": "Motocross Mania",
+        "year": "2000",
+        "rating": "73",
+        "rank": "1,620.",
+        "available": "no"
+    },
+    {
+        "name": "Call to Power II",
+        "year": "2000",
+        "rating": "72",
+        "rank": "1,639.",
+        "available": "yes"
+    },
+    {
+        "name": "Blood II: The Chosen",
+        "year": "1998",
+        "rating": "72",
+        "rank": "1,678.",
+        "available": "yes"
+    },
+    {
+        "name": "Microsoft Golf 2001 Edition",
+        "year": "2000",
+        "rating": "72",
+        "rank": "1,699.",
+        "available": "no"
+    },
+    {
+        "name": "Riddle of the Sphinx: An Egyptian Adventure",
+        "year": "2000",
+        "rating": "72",
+        "rank": "1,737.",
+        "available": "yes"
+    },
+    {
+        "name": "Frogger 2: Swampy's Revenge",
+        "year": "2000",
+        "rating": "72",
+        "rank": "1,753.",
+        "available": "no"
+    },
+    {
+        "name": "F1 World Grand Prix: 1999 Season",
+        "year": "2000",
+        "rating": "71",
+        "rank": "1,763.",
+        "available": "no"
+    },
+    {
+        "name": "Panzer General III: Scorched Earth",
+        "year": "2000",
+        "rating": "71",
+        "rank": "1,809.",
+        "available": "no"
+    },
+    {
+        "name": "Emergency: Fighters for Life",
+        "year": "1998",
+        "rating": "71",
+        "rank": "1,813.",
+        "available": "no"
+    },
+    {
+        "name": "Crime Cities",
+        "year": "2000",
+        "rating": "71",
+        "rank": "1,823.",
+        "available": "yes"
+    },
+    {
+        "name": "KISS: Psycho Circus - The Nightmare Child",
+        "year": "2000",
+        "rating": "71",
+        "rank": "1,824.",
+        "available": "no"
+    },
+    {
+        "name": "Sea Dogs",
+        "year": "2000",
+        "rating": "71",
+        "rank": "1,840.",
+        "available": "yes"
+    },
+    {
+        "name": "Battle Isle: The Andosia War",
+        "year": "2000",
+        "rating": "70",
+        "rank": "1,859.",
+        "available": "yes"
+    },
+    {
+        "name": "Wizards & Warriors",
+        "year": "2000",
+        "rating": "70",
+        "rank": "1,888.",
+        "available": "yes"
+    },
+    {
+        "name": "F1 Championship Season 2000",
+        "year": "2000",
+        "rating": "70",
+        "rank": "1,912.",
+        "available": "no"
+    },
+    {
+        "name": "Project IGI: I'm Going In",
+        "year": "2000",
+        "rating": "70",
+        "rank": "1,914.",
+        "available": "no"
+    },
+    {
+        "name": "Soulbringer",
+        "year": "2000",
+        "rating": "70",
+        "rank": "1,922.",
+        "available": "yes"
+    },
+    {
+        "name": "Septerra Core: Legacy of the Creator",
+        "year": "1999",
+        "rating": "70",
+        "rank": "1,926.",
+        "available": "yes"
+    },
+    {
+        "name": "Broken Sword: The Smoking Mirror",
+        "year": "1997",
+        "rating": "69",
+        "rank": "2,010.",
+        "available": "no"
+    },
+    {
+        "name": "Quake III: Team Arena",
+        "year": "2000",
+        "rating": "69",
+        "rank": "2,011.",
+        "available": "yes"
+    },
+    {
+        "name": "Submarine Titans",
+        "year": "2000",
+        "rating": "69",
+        "rank": "2,038.",
+        "available": "yes"
+    },
+    {
+        "name": "Metal Fatigue",
+        "year": "2000",
+        "rating": "68",
+        "rank": "2,046.",
+        "available": "yes"
+    },
+    {
+        "name": "Bang! Gunship Elite",
+        "year": "2000",
+        "rating": "68",
+        "rank": "2,084.",
+        "available": "no"
+    },
+    {
+        "name": "Starship Troopers: Terran Ascendancy",
+        "year": "2000",
+        "rating": "68",
+        "rank": "2,103.",
+        "available": "no"
+    },
+    {
+        "name": "Heroes Chronicles: Warlords of the Wasteland",
+        "year": "2000",
+        "rating": "67",
+        "rank": "2,161.",
+        "available": "yes"
+    },
+    {
+        "name": "X: Beyond the Frontier",
+        "year": "2000",
+        "rating": "67",
+        "rank": "2,162.",
+        "available": "yes"
+    },
+    {
+        "name": "Dracula: The Resurrection",
+        "year": "2000",
+        "rating": "67",
+        "rank": "2,172.",
+        "available": "yes"
+    },
+    {
+        "name": "Combat Command 2: Danger Forward!",
+        "year": "2000",
+        "rating": "66",
+        "rank": "2,282.",
+        "available": "no"
+    },
+    {
+        "name": "Battleship: Surface Thunder",
+        "year": "2000",
+        "rating": "65",
+        "rank": "2,303.",
+        "available": "no"
+    },
+    {
+        "name": "Tiger Woods PGA Tour 2001",
+        "year": "2000",
+        "rating": "65",
+        "rank": "2,325.",
+        "available": "no"
+    },
+    {
+        "name": "Gunman Chronicles",
+        "year": "2000",
+        "rating": "65",
+        "rank": "2,347.",
+        "available": "no"
+    },
+    {
+        "name": "Jagged Alliance 2: Unfinished Business",
+        "year": "2000",
+        "rating": "64",
+        "rank": "2,369.",
+        "available": "yes"
+    },
+    {
+        "name": "Heroes Chronicles: Conquest of the Underworld",
+        "year": "2000",
+        "rating": "64",
+        "rank": "2,379.",
+        "available": "yes"
+    },
+    {
+        "name": "Traitors Gate",
+        "year": "2000",
+        "rating": "63",
+        "rank": "2,468.",
+        "available": "no"
+    },
+    {
+        "name": "No Escape (2000)",
+        "year": "2000",
+        "rating": "63",
+        "rank": "2,492.",
+        "available": "no"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six: Covert Ops Essentials",
+        "year": "2000",
+        "rating": "62",
+        "rank": "2,514.",
+        "available": "no"
+    },
+    {
+        "name": "Europa Universalis: Crown of the North",
+        "year": "2000",
+        "rating": "61",
+        "rank": "2,559.",
+        "available": "no"
+    },
+    {
+        "name": "Dogs of War: Battle On Primus IV",
+        "year": "2000",
+        "rating": "61",
+        "rank": "2,605.",
+        "available": "no"
+    },
+    {
+        "name": "JetFighter IV: Fortress America",
+        "year": "2000",
+        "rating": "60",
+        "rank": "2,636.",
+        "available": "no"
+    },
+    {
+        "name": "Dino Crisis",
+        "year": "2000",
+        "rating": "59",
+        "rank": "2,663.",
+        "available": "yes"
+    },
+    {
+        "name": "Of Light and Darkness: The Prophecy",
+        "year": "1998",
+        "rating": "58",
+        "rank": "2,751.",
+        "available": "yes"
+    },
+    {
+        "name": "Tomb Raider: Chronicles",
+        "year": "2000",
+        "rating": "57",
+        "rank": "2,781.",
+        "available": "yes"
+    },
+    {
+        "name": "Blair Witch Volume II: The Legend of Coffin Rock",
+        "year": "2000",
+        "rating": "56",
+        "rank": "2,813.",
+        "available": "no"
+    },
+    {
+        "name": "The X-Files Game",
+        "year": "1998",
+        "rating": "56",
+        "rank": "2,819.",
+        "available": "no"
+    },
+    {
+        "name": "Postal",
+        "year": "1997",
+        "rating": "56",
+        "rank": "2,836.",
+        "available": "yes"
+    },
+    {
+        "name": "Blair Witch Volume III: The Elly Kedward Tale",
+        "year": "2000",
+        "rating": "55",
+        "rank": "2,854.",
+        "available": "no"
+    },
+    {
+        "name": "Harvester",
+        "year": "1996",
+        "rating": "53",
+        "rank": "2,930.",
+        "available": "yes"
+    },
+    {
+        "name": "Star Trek: New Worlds",
+        "year": "2000",
+        "rating": "52",
+        "rank": "2,951.",
+        "available": "no"
+    },
+    {
+        "name": "Seven Games of the Soul",
+        "year": "2000",
+        "rating": "52",
+        "rank": "2,956.",
+        "available": "no"
+    },
+    {
+        "name": "Sydney 2000",
+        "year": "2000",
+        "rating": "51",
+        "rank": "2,969.",
+        "available": "no"
+    },
+    {
+        "name": "Carmageddon 3: TDR 2000",
+        "year": "2000",
+        "rating": "48",
+        "rank": "3,033.",
+        "available": "yes"
+    },
+    {
+        "name": "Legend of the North: Konung",
+        "year": "2000",
+        "rating": "48",
+        "rank": "3,035.",
+        "available": "yes"
+    },
+    {
+        "name": "Amazons & Aliens",
+        "year": "2000",
+        "rating": "48",
+        "rank": "3,040.",
+        "available": "no"
+    },
+    {
+        "name": "Championship Surfer",
+        "year": "2000",
+        "rating": "47",
+        "rank": "3,056.",
+        "available": "no"
+    },
+    {
+        "name": "Beach Head 2000",
+        "year": "2000",
+        "rating": "46",
+        "rank": "3,064.",
+        "available": "yes"
+    },
+    {
+        "name": "The Mummy",
+        "year": "2000",
+        "rating": "46",
+        "rank": "3,066.",
+        "available": "no"
+    },
+    {
+        "name": "Squad Leader",
+        "year": "2000",
+        "rating": "46",
+        "rank": "3,071.",
+        "available": "no"
+    },
+    {
+        "name": "Timeline (2000)",
+        "year": "2000",
+        "rating": "41",
+        "rank": "3,129.",
+        "available": "no"
+    },
+    {
+        "name": "Freedom: First Resistance",
+        "year": "2000",
+        "rating": "40",
+        "rank": "3,143.",
+        "available": "no"
+    }
+]
