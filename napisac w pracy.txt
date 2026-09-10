@@ -1,0 +1,52 @@
+Problematyczne są pomijane w kodzie wizualizacji.
+
+metacritic omija wiele gier, jak na przyklad star wars rebel assault, ktore nie znajduja sie na liscie, bo nie maja ocen
+
+poprawiłem metro, bo dodano do goga pierwotne 2033 i Last Light
+
+Grim Fandango i Grim Fandango Remastered
+
+Problematyczne (x pozycji)
+
+Niedostępne w Polsce zweryfikowałem ostatecznie 10 września i np.:
+- Kogan II: Kings of War
+- Kohan: Ahriman's Gift
+są jednak dostępne w Polsce. Wcześniej nie było.
+
+Soldner: Secret Wars dostanie dopiero remaster, ale na moment ostatecznego zamykania badania dalej go nie było, więc zaznaczam problematyczne i pomijam.
+
+APB i APB reloaded to te same gry tylko druga jest rewydaniem bez sybskurpcji i w modelu free to play. Złączyłem je
+
+BCT Commander oraz Armadillo Run są dostepne tylko na starej obskurnej stronie wydawcy i pozostają problematyczne nieuwzględnione
+
+Warface był w trakcie zamykania, kiedy sprawdzałem stan gier. Uznałem za niedostępne, bo 27 maja na pc zamknięta i na konsole 25 sierpnia zamknięta.
+
+Game of Thrones: A Telltale Games Series jest listowane oddzielnie nawet poza wszystkimi epizodami od 1 do 6. Złączyłem je.
+
+Polaczylem tez the walking deady, Cognition: An Erica Reed Thriller, Wallace & Gromit's Grand Adventures, Tales from the Borderlands, Tales of the monkey island, the wolf among us, Strong Bad's Cool Game for Attractive People, kentucky route zero
+
+Polaczyc wszystkie epizody sam & max. Problem z nazewnicwtem. Oryginalnie Season 1, a teraz save the world itd. Zrobilo mi to klopot i uznalem najpierw za niedostepne i dopiero przy weryfikacji zobaczyem ze jest inaczej.
+
+Broken Sword: The Smoking Mirror ma w przygotowaniu remaster. Uznałem za niedostępne.
+
+sonic generations da się kupić, ale tylko w pakiecie z innymi grami sonica za ponad 100 zlotych. No ale da się, więc dostępne.
+
+Duke Nukem: Manhattan Project nie ma na pc ale jest na sklepie xbox. Niedostępne bo szukamy na pc.
+
+Street Fighter X Tekken problem z instalacją przez Games for Windows LIVE, więc wyłączyli możliwość kupna. Do teraz nie naprawili więc niedostępne.
+
+Nie łączyłem na przykład dodatków do simsów. Dać argumentację, że trudno osądzić co ma być połączone a co nie. Co ma się kwalifikować jako dodatek który można połączyć a co jako oddzielny byt?
+
+Przypadek Worms 2 armageddon; dalem na tak, bo to tak naprawde worms: reloaded na pc.
+
+City of heroes. gra oficjalnie nie zyje, ale jest aktywny fanowski serwer. dalem na nie.
+battlefield bad company 2 nie da sie kupic, ale mozna sciagnac dalej ze steama jak sie posiada. Jest projekt community, ktory wskrzesza serwery
+unreal tournament 1999 i 2004 nie ma w sklepach ale strona oldunreal je udostepnia za zgoda Epic. Unreal 2004 jest na archive.org
+
+dirt 3 jest niby dostepny do kupienia na x-komie i na sklepach z kluczami. Ale dałem na nie, bo nie uznajemy sklepów z kluczami.
+
+Tom Clancy's Splinter Cell: Pandora Tomorrow jest oryginalnie dostępne ale nie ma możliwości grania multiplayer
+
+Homeworld: Emergence który został wydany jako Cataclysm, ale "cataclysm" is registered trademark of Blizzard Entertainment, Inc., and the game has been renamed to avoid confusion.
+
+tony hawk pro skater 2 nie ma oryginalnej wersji dostępnej, a jest remaster 1+2, ktory jest jednak trochę inny. To samo z 3 i 4.
