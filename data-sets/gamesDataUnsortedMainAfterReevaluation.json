@@ -3521,13 +3521,6 @@
         "available": "yes"
     },
     {
-        "name": "Life is Strange: Episode 5 - Polarized",
-        "year": "2015",
-        "rating": "83",
-        "rank": "515.",
-        "available": "yes"
-    },
-    {
         "name": "Broforce",
         "year": "2015",
         "rating": "83",
@@ -5495,13 +5488,6 @@
         "available": "yes"
     },
     {
-        "name": "Penny Arcade Adventures: Episode Two",
-        "year": "2008",
-        "rating": "80",
-        "rank": "816.",
-        "available": "prob"
-    },
-    {
         "name": "Time Commando",
         "year": "1996",
         "rating": "80",
@@ -5569,13 +5555,6 @@
         "year": "2014",
         "rating": "80",
         "rank": "827.",
-        "available": "yes"
-    },
-    {
-        "name": "Life is Strange: Episode 3 - Chaos Theory",
-        "year": "2015",
-        "rating": "80",
-        "rank": "828.",
         "available": "yes"
     },
     {
@@ -7175,7 +7154,7 @@
         "available": "no"
     },
     {
-        "name": "AR-K Episode 3: The Great Escape",
+        "name": "AR-K: The Great Escape",
         "year": "2015",
         "rating": "78",
         "rank": "1,068.",
@@ -7238,7 +7217,7 @@
         "available": "yes"
     },
     {
-        "name": "Republique: Episode 1 - Exordium",
+        "name": "Republique",
         "year": "2015",
         "rating": "77",
         "rank": "1,078.",
@@ -7319,13 +7298,6 @@
         "year": "2013",
         "rating": "77",
         "rank": "1,089.",
-        "available": "yes"
-    },
-    {
-        "name": "Life is Strange: Episode 1 - Chrysalis",
-        "year": "2015",
-        "rating": "77",
-        "rank": "1,090.",
         "available": "yes"
     },
     {
@@ -7469,13 +7441,6 @@
         "available": "yes"
     },
     {
-        "name": "Life is Strange: Episode 2 - Out of Time",
-        "year": "2015",
-        "rating": "77",
-        "rank": "1,111.",
-        "available": "yes"
-    },
-    {
         "name": "Teslagrad",
         "year": "2013",
         "rating": "77",
@@ -7504,7 +7469,7 @@
         "available": "yes"
     },
     {
-        "name": "Penny Arcade Adventures: Episode One",
+        "name": "Penny Arcade Adventures",
         "year": "2008",
         "rating": "77",
         "rank": "1,117.",
@@ -7796,13 +7761,6 @@
         "rating": "77",
         "rank": "1,159.",
         "available": "no"
-    },
-    {
-        "name": "Penny Arcade Adventures: Episode Three",
-        "year": "2012",
-        "rating": "77",
-        "rank": "1,160.",
-        "available": "prob"
     },
     {
         "name": "Pro Evolution Soccer 2012",
@@ -8299,13 +8257,6 @@
         "year": "2015",
         "rating": "76",
         "rank": "1,233.",
-        "available": "yes"
-    },
-    {
-        "name": "Life is Strange: Episode 4 - Dark Room",
-        "year": "2015",
-        "rating": "76",
-        "rank": "1,234.",
         "available": "yes"
     },
     {
@@ -8841,13 +8792,6 @@
         "available": "yes"
     },
     {
-        "name": "Back to the Future: The Game - Episode V: OUTATIME",
-        "year": "2011",
-        "rating": "75",
-        "rank": "1,313.",
-        "available": "no"
-    },
-    {
         "name": "Dreamfall: The Longest Journey",
         "year": "2006",
         "rating": "75",
@@ -9247,7 +9191,7 @@
         "available": "yes"
     },
     {
-        "name": "Hector: Badge of Carnage - Episode 1: We Negotiate With Terrorists",
+        "name": "Hector: Badge of Carnage",
         "year": "2011",
         "rating": "75",
         "rank": "1,375.",
@@ -9436,17 +9380,10 @@
         "available": "yes"
     },
     {
-        "name": "Back to the Future: The Game - Episode I: It's About Time",
+        "name": "Back to the Future: The Game",
         "year": "2010",
         "rating": "74",
         "rank": "1,403.",
-        "available": "no"
-    },
-    {
-        "name": "Back to the Future: The Game - Episode II: Get Tannen!",
-        "year": "2011",
-        "rating": "74",
-        "rank": "1,404.",
         "available": "no"
     },
     {
@@ -10605,13 +10542,6 @@
         "available": "yes"
     },
     {
-        "name": "Minecraft: Story Mode - Episode 3: The Last Place You Look",
-        "year": "2015",
-        "rating": "73",
-        "rank": "1,573.",
-        "available": "no"
-    },
-    {
         "name": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
         "year": "2015",
         "rating": "73",
@@ -10864,7 +10794,7 @@
         "available": "yes"
     },
     {
-        "name": "Blues and Bullets - Episode 1: The End of Peace",
+        "name": "Blues and Bullets",
         "year": "2015",
         "rating": "73",
         "rank": "1,610.",
@@ -11886,13 +11816,6 @@
         "available": "yes"
     },
     {
-        "name": "Back to the Future: The Game - Episode III: Citizen Brown",
-        "year": "2011",
-        "rating": "71",
-        "rank": "1,759.",
-        "available": "no"
-    },
-    {
         "name": "Lords of Xulima",
         "year": "2014",
         "rating": "71",
@@ -12446,7 +12369,7 @@
         "available": "yes"
     },
     {
-        "name": "Minecraft: Story Mode - Episode 1: The Order of the Stone",
+        "name": "Minecraft: Story Mode",
         "year": "2015",
         "rating": "71",
         "rank": "1,839.",
@@ -12495,13 +12418,6 @@
         "available": "yes"
     },
     {
-        "name": "Back to the Future: The Game - Episode IV: Double Visions",
-        "year": "2011",
-        "rating": "71",
-        "rank": "1,846.",
-        "available": "no"
-    },
-    {
         "name": "Birth of America",
         "year": "2006",
         "rating": "71",
@@ -12534,13 +12450,6 @@
         "year": "2014",
         "rating": "70",
         "rank": "1,851.",
-        "available": "yes"
-    },
-    {
-        "name": "Hector: Badge of Carnage - Episode 3: Beyond Reasonable Doom",
-        "year": "2011",
-        "rating": "70",
-        "rank": "1,852.",
         "available": "yes"
     },
     {
@@ -14264,13 +14173,6 @@
         "rating": "68",
         "rank": "2,100.",
         "available": "yes"
-    },
-    {
-        "name": "Minecraft: Story Mode - Episode 4: A Block and a Hard Place",
-        "year": "2015",
-        "rating": "68",
-        "rank": "2,101.",
-        "available": "no"
     },
     {
         "name": "The Evil Within",
@@ -16184,7 +16086,7 @@
         "available": "no"
     },
     {
-        "name": "Albino Lullaby: Episode 1",
+        "name": "Albino Lullaby",
         "year": "2015",
         "rating": "64",
         "rank": "2,376.",
@@ -16706,13 +16608,6 @@
         "year": "2006",
         "rating": "63",
         "rank": "2,450.",
-        "available": "yes"
-    },
-    {
-        "name": "Republique: Episode 4 - God's Acre",
-        "year": "2015",
-        "rating": "63",
-        "rank": "2,451.",
         "available": "yes"
     },
     {
@@ -18421,13 +18316,6 @@
         "year": "2008",
         "rating": "59",
         "rank": "2,697.",
-        "available": "no"
-    },
-    {
-        "name": "Minecraft: Story Mode - Episode 2: Assembly Required",
-        "year": "2015",
-        "rating": "59",
-        "rank": "2,698.",
         "available": "no"
     },
     {
