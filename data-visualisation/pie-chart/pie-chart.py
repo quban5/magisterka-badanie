@@ -17,8 +17,10 @@ for available in availability:
     elif available == "no":
         noCount += 1
 
-yesCountPercent = yesCount / len(availability) * 100
-noCountPercent = noCount / len(availability) * 100
+totalCount = yesCount + noCount
+
+yesCountPercent = yesCount / totalCount * 100
+noCountPercent = noCount / totalCount * 100
 
 print('Yes:', yesCount, f"{yesCountPercent} %")
 print('No:', noCount, f"{noCountPercent} %")
@@ -28,7 +30,7 @@ sizes = [yesCount, noCount]
 colors = ['#4CAF50', '#F44336']
 
 plt.figure(figsize=(6, 6))
-plt.pie(sizes, labels=labels, colors=colors, startangle=140)
+plt.pie(sizes, labels=labels, colors=colors, startangle=140, autopct='%1.1f%%', pctdistance=0.79, textprops={'color': 'black', 'fontsize': 12}, wedgeprops={"width": 0.4, "edgecolor": "white"})
 plt.axis('equal')
 plt.tight_layout()
 plt.savefig('availability-pie-chart.png', dpi=300, bbox_inches='tight')

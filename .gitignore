@@ -1,5 +1,6 @@
-.env
-.vs
-test.py
-matplotlib-cheatsheets
-metacritic-scraping/pages
+.venv
+bin
+lib
+lib64
+share
+pyvenv.cfg

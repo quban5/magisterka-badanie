@@ -33,14 +33,6 @@ dirt 3 jest niby dostepny do kupienia na x-komie i na sklepach z kluczami. Ale d
 
 sonic generations da się kupić, ale tylko w pakiecie z innymi grami sonica za ponad 100 zlotych. No ale da się, więc dostępne.
 
-
-
-
-
-
-
-
-
 nie łączyłem metro, bo dodano do goga pierwotne 2033 i Last Light
 
 Grim Fandango i Grim Fandango Remastered
@@ -53,6 +45,9 @@ Broken Sword: The Smoking Mirror ma w przygotowaniu remaster. Uznałem za niedos
 
 tony hawk pro skater 2 nie ma oryginalnej wersji dostępnej, a jest remaster 1+2, ktory jest jednak trochę inny. To samo z 3 i 4.
 
+Street Fighter X Tekken problem z instalacją przez Games for Windows LIVE, więc wyłączyli możliwość kupna. Do teraz nie naprawili więc niedostępne.
+
+Przypadek Worms 2 armageddon; dalem na tak, bo to tak naprawde worms: reloaded na pc.
 
 
 
@@ -60,10 +55,6 @@ tony hawk pro skater 2 nie ma oryginalnej wersji dostępnej, a jest remaster 1+2
 
 
 Problematyczne są pomijane w kodzie wizualizacji.
-
-Street Fighter X Tekken problem z instalacją przez Games for Windows LIVE, więc wyłączyli możliwość kupna. Do teraz nie naprawili więc niedostępne.
-
-Przypadek Worms 2 armageddon; dalem na tak, bo to tak naprawde worms: reloaded na pc.
 
 EA Sports gry. Gry wydane przez EA Sports lub/i sygnowane EA Sports, nie zaliczają się jednak takie serie jak Skate
 Niedostępnych 50 gier z 50 pozycji w danych. Dużo gier nie było wydane na PC i nie były dostępne w danych z różnych powodów. Więc liczba jest na pewno większa
