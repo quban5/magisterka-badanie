@@ -49,11 +49,25 @@ no_vals = np.array([stats[label]['no'] for label in labels])
 fig, ax = plt.subplots(figsize=(12, 7))
 width = 0.5
 
-p1 = ax.bar(labels, yes_vals, width, label='Dostępne', color='#4CAF50')
-p2 = ax.bar(labels, no_vals, width, bottom=yes_vals, label='Niedostępne', color='#F44336')
+def make_labels(values, total_values):
+    labels = []
+
+    for value, total in zip(values, total_values):
+        if total == 0:
+            labels.append('')
+        else:
+            percent = value / total * 100
+            labels.append(f'{percent:.1f}% ({value})')
+
+    return labels
+
+p1 = ax.bar(labels, yes_vals, width, label='Dostępne', color='#72AC43')
+p2 = ax.bar(labels, no_vals, width, bottom=yes_vals, label='Niedostępne', color='#C63F3E')
+
+totals = yes_vals + no_vals
     
-ax.bar_label(p1, label_type='center', fontweight='regular', color='#272727')
-ax.bar_label(p2, label_type='center', fontweight='regular', color='#272727')
+ax.bar_label(p1, labels=make_labels(yes_vals, totals), label_type='center', fontweight='regular', color='#272727')
+ax.bar_label(p2, labels=make_labels(no_vals, totals), label_type='center', fontweight='regular', color='#272727')
 
 ax.grid(axis='y', linestyle='--', alpha=0.3)
 ax.set_ylabel('Liczba gier')
@@ -61,5 +75,4 @@ ax.set_xlabel('Przedziały lat')
 ax.legend()
 
 plt.tight_layout()
-plt.savefig('year-bar-chart.png', dpi=300, bbox_inches='tight')
 plt.show()

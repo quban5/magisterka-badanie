@@ -42,7 +42,7 @@ labels = list(stats.keys())
 yes_vals = np.array([stats[label]['yes'] for label in labels])
 no_vals = np.array([stats[label]['no'] for label in labels])
 
-colors = {'Dostępne': '#4CAF50', 'Niedostępne': '#F44336'}
+colors = {'Dostępne': '#72AC43', 'Niedostępne': '#C63F3E'}
 width = 0.6
 
 # 3 subploty obok siebie
@@ -74,8 +74,23 @@ for i in range(3):
     )
 
     # Etykiety
+    totals = chunk_yes + chunk_no
+
+    def make_labels(values, total_values):
+        labels = []
+
+        for value, total in zip(values, total_values):
+            if total == 0:
+                labels.append('')
+            else:
+                percent = value / total * 100
+                labels.append(f'{percent:.1f}% ({value})')
+
+        return labels
+
     ax.bar_label(
         p1,
+        labels=make_labels(chunk_yes, totals),
         label_type='center',
         fontweight='regular',
         color='#272727'
@@ -83,6 +98,7 @@ for i in range(3):
 
     ax.bar_label(
         p2,
+        labels=make_labels(chunk_no, totals),
         label_type='center',
         fontweight='regular',
         color='#272727'
@@ -98,9 +114,9 @@ for i in range(3):
 
     ax.grid(axis='y', linestyle='--', alpha=0.3)
 
-    if i == 0:
-        ax.legend()
-        ax.set_ylabel('Liczba gier')
+    ax.legend()
+    ax.set_ylabel('Liczba gier')
+    ax.set_xlabel('Przedziały ratingu')
 
     plt.tight_layout()
 

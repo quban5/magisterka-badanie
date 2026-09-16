@@ -27,11 +27,17 @@ print('No:', noCount, f"{noCountPercent} %")
 
 labels = ['Dostępne', 'Niedostępne']
 sizes = [yesCount, noCount]
-colors = ['#4CAF50', '#F44336']
+colors = ['#72AC43', '#C63F3E']
+
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        count = int(round(pct * total / 100.0))
+        return f'{pct:.1f}% ({count})'
+    return my_autopct
 
 plt.figure(figsize=(6, 6))
-plt.pie(sizes, labels=labels, colors=colors, startangle=140, autopct='%1.1f%%', pctdistance=0.79, textprops={'color': 'black', 'fontsize': 12}, wedgeprops={"width": 0.4, "edgecolor": "white"})
+plt.pie(sizes, labels=labels, colors=colors, startangle=140, autopct=make_autopct(sizes), pctdistance=0.79, textprops={'color': 'black', 'fontsize': 12}, wedgeprops={"width": 0.4, "edgecolor": "white"})
 plt.axis('equal')
 plt.tight_layout()
-plt.savefig('availability-pie-chart.png', dpi=300, bbox_inches='tight')
 plt.show()
